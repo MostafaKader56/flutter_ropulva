@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAPSGgToBBbBdagnETKraiPQjiR3e5a-k4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744600848457</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterRopulva</string>
+	<key>PROJECT_ID</key>
+	<string>dive36-5156568465</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dive36-5156568465.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744600848457:ios:70963d62feeeb651979798</string>
+	<key>DATABASE_URL</key>
+	<string>https://dive36-5156568465-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
